@@ -1,3 +1,3 @@
 # RoboWalker-USTC
 
-![introduce pic](../resource/introduction.png)
+![introduce pic](./introduction.png)
